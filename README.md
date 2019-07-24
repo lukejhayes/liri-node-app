@@ -27,12 +27,15 @@
         - Depending on the command you run, the output will vary
 
     Finding concerts put on by your favorite artist or band:
+    
         - Type "nodemon liri.js concert-this <name of artist or band>" in the liri.js console
 
     Finding specific spotify songs based off catagories such as song name or lyrics:
+    
         - Type "nodemon liri.js spotify-this-song <lyric or title>" in the liri.js console
 
     Finding information about movie titles such as Year Published, Ratings, Plot & Actors:
+    
         - Type "nodemon liri.js movie-this <movie title>" in the liri.js console
 
 
